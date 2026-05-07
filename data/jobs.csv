@@ -1,0 +1,25 @@
+job_title,description,category,skills,experience_level,location
+
+Software Engineer,"Develop scalable backend systems using Python, Django, APIs, microservices, cloud deployment","Software","python, django, api, backend, cloud","Mid","Remote"
+
+Frontend Developer,"Build UI using HTML, CSS, JavaScript, React for responsive web applications","Software","html, css, javascript, react, ui","Entry","Remote"
+
+Backend Developer,"Design APIs and server-side logic using Node.js, Django, databases and cloud services","Software","nodejs, django, api, database","Mid","Remote"
+
+Full Stack Developer,"Work on frontend and backend systems using React, Node.js, APIs and databases","Software","react, nodejs, fullstack","Mid","Remote"
+
+Data Scientist,"Analyze data, build predictive models using Python, ML, statistics and visualization","AI/ML","python, machine learning, pandas, numpy","Mid","USA"
+
+Machine Learning Engineer,"Design deep learning models, NLP systems, and AI pipelines using TensorFlow and PyTorch","AI/ML","deep learning, tensorflow, pytorch, nlp","Senior","Remote"
+
+AI Engineer,"Build AI systems including chatbots, LLM applications, and intelligent automation systems","AI/ML","ai, llm, nlp, deep learning","Senior","Remote"
+
+Data Analyst,"Analyze business data using Excel, SQL, Python, and visualization tools","Data","sql, excel, python, analytics","Entry","USA"
+
+SEO Specialist,"Improve website ranking using keywords, content optimization, backlinks and Google analytics","Marketing","seo, keywords, content, google analytics","Entry","Remote"
+
+Content Writer,"Write blogs, articles and SEO optimized content for websites and brands","Writing","writing, content, blog, seo","Entry","Remote"
+
+DevOps Engineer,"Manage cloud infrastructure using AWS, Docker, Kubernetes and CI/CD pipelines","Cloud","aws, docker, kubernetes, ci/cd","Senior","Remote"
+
+Cybersecurity Analyst,"Protect systems using network security, ethical hacking and risk analysis","Security","security, hacking, network, cyber","Mid","USA"

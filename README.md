@@ -6,10 +6,6 @@ Instead of simple keyword matching, this system understands the **meaning of tex
 
 ---
 
-## 🔥 Live Demo
-(Add your Streamlit / hosted link here)
-
----
 
 ## 📌 Features
 
@@ -50,17 +46,7 @@ Instead of simple keyword matching, this system understands the **meaning of tex
 - Vector search (ANN)
 - Information retrieval systems
 
-ai_career_ai/
-│
-├── app.py
-├── data/
-│ └── jobs.csv
-│
-├── model/
-│ └── recommender.py
-│
-├── assets/
-│ └── style.css
+
 
 
 ## 🚀 Future Improvements
@@ -80,7 +66,7 @@ ai_career_ai/
 - Career guidance systems
 - HR automation tools
 
----
+
 
 ## 👨‍💻 Author
 
@@ -88,3 +74,14 @@ ai_career_ai/
 AI/ML Enthusiast | Python Developer  
 
 ## 📁 Project Structure
+ai_career_ai/
+│
+├── app.py
+├── data/
+│ └── jobs.csv
+│
+├── model/
+│ └── recommender.py
+│
+├── assets/
+│ └── style.css

@@ -1,25 +1,32 @@
-job_title,description,category,skills,experience_level,location
+job_title,description,category,skills,experience_level
 
-Software Engineer,"Develop scalable backend systems using Python, Django, APIs, microservices, cloud deployment","Software","python, django, api, backend, cloud","Mid","Remote"
+Software Engineer,IT,"Build scalable software applications","python, java, apis, system design",mid
+Data Scientist,IT,"Analyze data and build ML models","python, sql, machine learning, pandas",mid
+DevOps Engineer,IT,"Manage cloud infrastructure and CI/CD pipelines","aws, docker, kubernetes, linux",senior
 
-Frontend Developer,"Build UI using HTML, CSS, JavaScript, React for responsive web applications","Software","html, css, javascript, react, ui","Entry","Remote"
+Financial Analyst,Finance,"Analyze financial reports and market trends","excel, accounting, finance, sql",junior
+Investment Banker,Finance,"Handle investments and financial modeling","finance, valuation, excel, analytics",senior
+Accountant,Finance,"Manage financial records and auditing","accounting, excel, taxation",junior
 
-Backend Developer,"Design APIs and server-side logic using Node.js, Django, databases and cloud services","Software","nodejs, django, api, database","Mid","Remote"
+Doctor,Healthcare,"Diagnose and treat patients","medicine, biology, diagnosis",senior
+Data Analyst,Healthcare,"Analyze healthcare data and reports","sql, python, data analysis",mid
+Pharmacist,Healthcare,"Manage and dispense medicines","pharmacy, chemistry",mid
 
-Full Stack Developer,"Work on frontend and backend systems using React, Node.js, APIs and databases","Software","react, nodejs, fullstack","Mid","Remote"
+Marketing Manager,Business,"Manage marketing campaigns and branding","seo, social media, communication",senior
+Business Analyst,Business,"Analyze business requirements","excel, sql, reporting, analysis",mid
+Sales Executive,Business,"Handle client sales and relations","communication, negotiation",junior
 
-Data Scientist,"Analyze data, build predictive models using Python, ML, statistics and visualization","AI/ML","python, machine learning, pandas, numpy","Mid","USA"
+HR Manager,HR,"Manage recruitment and employee relations","communication, hiring, leadership",senior
+Recruiter,HR,"Hire and screen candidates","communication, interviewing",junior
 
-Machine Learning Engineer,"Design deep learning models, NLP systems, and AI pipelines using TensorFlow and PyTorch","AI/ML","deep learning, tensorflow, pytorch, nlp","Senior","Remote"
+Teacher,Education,"Teach students and prepare curriculum","communication, teaching, subject knowledge",mid
+Professor,Education,"Conduct research and teach university students","research, teaching, phd",senior
 
-AI Engineer,"Build AI systems including chatbots, LLM applications, and intelligent automation systems","AI/ML","ai, llm, nlp, deep learning","Senior","Remote"
+Civil Engineer,Engineering,"Design and construct infrastructure","autocad, design, structural engineering",mid
+Mechanical Engineer,Engineering,"Design mechanical systems","mechanics, cad, design",mid
 
-Data Analyst,"Analyze business data using Excel, SQL, Python, and visualization tools","Data","sql, excel, python, analytics","Entry","USA"
-
-SEO Specialist,"Improve website ranking using keywords, content optimization, backlinks and Google analytics","Marketing","seo, keywords, content, google analytics","Entry","Remote"
-
-Content Writer,"Write blogs, articles and SEO optimized content for websites and brands","Writing","writing, content, blog, seo","Entry","Remote"
-
-DevOps Engineer,"Manage cloud infrastructure using AWS, Docker, Kubernetes and CI/CD pipelines","Cloud","aws, docker, kubernetes, ci/cd","Senior","Remote"
-
-Cybersecurity Analyst,"Protect systems using network security, ethical hacking and risk analysis","Security","security, hacking, network, cyber","Mid","USA"
+Chemical Engineer,Engineering,"Design chemical processes in industries like pharma, oil and manufacturing","chemistry, process engineering, thermodynamics, safety",mid
+Chartered Accountant (CA),Finance,"Handle auditing, taxation, financial reporting and compliance","accounting, taxation, auditing, finance, excel",senior
+Pharmaceutical Scientist,Healthcare,"Develop and test drugs and chemical formulations","chemistry, biology, lab research, pharma",senior
+Petroleum Engineer,Engineering,"Work on oil and gas extraction systems","geology, drilling, thermodynamics, engineering",senior
+Clinical Researcher,Healthcare,"Conduct clinical trials and medical research","biology, research, statistics, clinical trials",mid

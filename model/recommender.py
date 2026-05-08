@@ -13,12 +13,17 @@ class CareerRecommender:
         self.df = pd.read_csv(csv_path)
 
         # Merge text columns
+        # self.df["text"] = (
+        #     self.df["job_title"] + " " +
+        #     self.df["description"] + " " +
+        #     self.df["skills"]
+        # )
         self.df["text"] = (
-            self.df["job_title"] + " " +
-            self.df["description"] + " " +
-            self.df["skills"]
-        )
-
+    self.df["job_title"] + ". " +
+    self.df["industry"] + ". " +
+    self.df["description"] + ". " +
+    "Skills required: " + self.df["skills"]
+)
         self.embedder = Embedder()
 
         os.makedirs("saved", exist_ok=True)

@@ -35,7 +35,17 @@ SKILLS_DB = [
     "computer vision",
     "matplotlib",
     "seaborn",
-    "scikit-learn"
+    "scikit-learn",
+     "chemistry",
+    "thermodynamics",
+    "process engineering",
+    "taxation",
+    "auditing",
+    "finance",
+    "pharma",
+    "biology",
+    "geology",
+    "research"
 ]
 
 

@@ -10,8 +10,15 @@ class Embedder:
         )
 
     def encode(self, texts):
+         return self.model.encode(
+    texts,
+    normalize_embeddings=True,
+    show_progress_bar=False
+)
 
-        return self.model.encode(
-            texts,
-            normalize_embeddings=True
-        )
+        # return self.model.encode(
+        #     texts,
+        #     normalize_embeddings=True
+        # )
+
+   

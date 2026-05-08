@@ -144,6 +144,10 @@ if st.button("🚀 Analyze Career Match"):
         )
 
     else:
+         user_input = user_input.lower()
+
+    if len(user_input.split()) < 3:
+        user_input = "skills: " + user_input
 
         results = model.recommend(
             user_input,

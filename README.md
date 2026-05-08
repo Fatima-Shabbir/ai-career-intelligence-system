@@ -65,6 +65,11 @@ An AI-powered career recommendation system that matches user skills or resumes w
 - Career guidance systems
 - HR automation tools
 
+  ## 👨‍💻 Author
+
+**Fatima Shabbir**  
+AI/ML Enthusiast | Python Developer  
+
 ## 📁 Project Structure
 
 ```text
@@ -84,9 +89,6 @@ style.css
 
 ---
 
-## 👨‍💻 Author
 
-**Fatima Shabbir**  
-AI/ML Enthusiast | Python Developer  
 
 

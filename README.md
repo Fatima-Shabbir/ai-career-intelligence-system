@@ -1,61 +1,81 @@
 # 🧠 AI Career Intelligence System
 
-An AI-powered job recommendation system that uses **Natural Language Processing (NLP)** and **Semantic Search** to match user skills with relevant job roles.
-
-Instead of simple keyword matching, this system understands the **meaning of text using transformer-based embeddings** and performs intelligent job recommendations.
+An AI-powered career recommendation system that matches user skills or resumes with the most relevant job roles using **semantic search (Sentence Transformers + FAISS),NLP**.
 
 ---
 
+## 🚀 Live Features
 
-## 📌 Features
-
-- 🧠 AI-powered semantic job matching
-- 📄 Resume / skill-based input system
-- ⚡ Fast similarity search using FAISS
-- 🎯 Accurate job recommendations (not keyword-based)
-- 📊 Match score for each recommendation
-- 💻 Clean interactive Streamlit UI
+- 📄 Upload Resume (PDF)
+- ✍️ Manual Skill Input
+- 🧠 AI Skill Extraction from Resume
+- 🔍 Semantic Job Matching (not keyword-based)
+- ⚡ FAISS Vector Search for fast recommendations
+- 📊 Match Score Visualization
+- ❌ Skill Gap Analysis
+- 🎯 Interactive Streamlit Dashboard
 
 ---
 
 ## 🧠 How It Works
 
-1. User enters skills or resume text  
-2. Text is converted into AI embeddings (Sentence-BERT)  
-3. Job descriptions are also converted into embeddings  
-4. FAISS finds the most similar job vectors  
-5. System returns ranked job recommendations  
+1. User uploads resume or enters skills  
+2. Resume text is extracted (PDF parsing)  
+3. Important skills are extracted using NLP  
+4. Skills are converted into embeddings using Sentence Transformers  
+5. FAISS finds the most similar job roles  
+6. Results are ranked and displayed with match scores  
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Tech Stack
 
-- Python 🐍
-- Streamlit 🎨
-- SentenceTransformers 🤖
-- FAISS (Facebook AI Similarity Search) ⚡
-- Pandas 📊
+- Python  
+- Streamlit (Frontend UI)  
+- Sentence Transformers (NLP Embeddings)  
+- FAISS (Vector Similarity Search)  
+- Pandas (Data Handling)  
+- Plotly (Visualization)  
+- pdfplumber (Resume parsing)
 
 ---
 
 ## 🧠 AI Concepts Used
 
-- Natural Language Processing (NLP)
-- Transformer-based embeddings
-- Semantic similarity
-- Vector search (ANN)
-- Information retrieval systems
+- Semantic Search  
+- Vector Embeddings  
+- Cosine Similarity  
+- Information Retrieval  
+- NLP-based Skill Extraction  
+
+---
+
+## 📁 Project Structure
+
+```text
+model/
+   embedder.py
+   recommender.py
+
+utils/
+   resume_parser.py
+   skill_extractor.py
+
+data/
+   jobs.csv
+
+app.py
+style.css
 
 
 
 
-## 🚀 Future Improvements
-
-- Resume PDF upload support
-- ChatGPT-style career assistant
-- Skill gap analysis
-- Job roadmap generator
-- Deployment on cloud (Render / HuggingFace)
+## Future Improvements
+LLM-based career coach
+Real job API integration
+Resume scoring system
+Login + user profiles
+Personalized learning roadmap
 
 ---
 
@@ -73,15 +93,4 @@ Instead of simple keyword matching, this system understands the **meaning of tex
 **Fatima Shabbir**  
 AI/ML Enthusiast | Python Developer  
 
-## 📁 Project Structure
-ai_career_ai/
-│
-├── app.py
-├── data/
-│ └── jobs.csv
-│
-├── model/
-│ └── recommender.py
-│
-├── assets/
-│ └── style.css
+

@@ -19,11 +19,12 @@ class CareerRecommender:
         #     self.df["skills"]
         # )
         self.df["text"] = (
-    self.df["job_title"] + ". " +
-    self.df["industry"] + ". " +
-    self.df["description"] + ". " +
-    "Skills required: " + self.df["skills"]
+    self.df["job_title"].astype(str) + ". " +
+    self.df["category"].astype(str) + ". " +
+    self.df["description"].astype(str) + ". " +
+    "Skills required: " + self.df["skills"].astype(str)
 )
+       
         self.embedder = Embedder()
 
         os.makedirs("saved", exist_ok=True)

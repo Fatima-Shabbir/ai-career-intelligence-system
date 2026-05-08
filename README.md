@@ -50,11 +50,11 @@ An AI-powered career recommendation system that matches user skills or resumes w
 
 ---
 ## Future Improvements
-LLM-based career coach
-Real job API integration
-Resume scoring system
-Login + user profiles
-Personalized learning roadmap
+- LLM-based career coach
+- Real job API integration
+- Resume scoring system
+- Login + user profiles
+- Personalized learning roadmap
 
 ---
 
@@ -83,8 +83,6 @@ app.py
 style.css
 
 ---
-
-
 
 ## 👨‍💻 Author
 

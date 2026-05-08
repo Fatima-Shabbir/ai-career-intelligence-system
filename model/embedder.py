@@ -16,9 +16,6 @@ class Embedder:
     show_progress_bar=False
 )
 
-        # return self.model.encode(
-        #     texts,
-        #     normalize_embeddings=True
-        # )
+       
 
    

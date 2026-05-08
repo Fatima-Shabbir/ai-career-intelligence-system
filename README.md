@@ -49,6 +49,21 @@ An AI-powered career recommendation system that matches user skills or resumes w
 - NLP-based Skill Extraction  
 
 ---
+## Future Improvements
+LLM-based career coach
+Real job API integration
+Resume scoring system
+Login + user profiles
+Personalized learning roadmap
+
+---
+
+## 🎯 Real-World Use Cases
+
+- Job portals (like LinkedIn style systems)
+- Recruitment platforms
+- Career guidance systems
+- HR automation tools
 
 ## 📁 Project Structure
 
@@ -68,23 +83,6 @@ app.py
 style.css
 
 ---
-
-
-## Future Improvements
-LLM-based career coach
-Real job API integration
-Resume scoring system
-Login + user profiles
-Personalized learning roadmap
-
----
-
-## 🎯 Real-World Use Cases
-
-- Job portals (like LinkedIn style systems)
-- Recruitment platforms
-- Career guidance systems
-- HR automation tools
 
 
 

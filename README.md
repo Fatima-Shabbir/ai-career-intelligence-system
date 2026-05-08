@@ -65,6 +65,9 @@ An AI-powered career recommendation system that matches user skills or resumes w
 - Career guidance systems
 - HR automation tools
 
+## Live Website
+visit: https://ai-career-intelligence-system-kkg6txedfvd4nrigux5wwb.streamlit.app/
+
   ## 👨‍💻 Author
 
 **Fatima Shabbir**  

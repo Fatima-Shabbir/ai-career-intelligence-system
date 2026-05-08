@@ -67,7 +67,7 @@ data/
 app.py
 style.css
 
-
+---
 
 
 ## Future Improvements

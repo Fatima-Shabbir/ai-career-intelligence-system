@@ -1,7 +1,77 @@
-job_title,category,description,skills,experience_level
-Data Scientist,AI,"Analyze data and build ML models","Python, SQL, Machine Learning, Pandas",Mid
-Machine Learning Engineer,AI,"Deploy AI systems","Python, TensorFlow, Deep Learning, Docker",Senior
-Data Analyst,Analytics,"Analyze business data","Excel, SQL, Power BI, Python",Junior
-Backend Developer,Software,"Build backend APIs","Python, Django, APIs, PostgreSQL",Mid
-Frontend Developer,Software,"Develop UI applications","React, JavaScript, HTML, CSS",Junior
-DevOps Engineer,Cloud,"Manage CI/CD pipelines","Docker, Kubernetes, AWS, Linux",Senior
+job_title,category,skills,experience_level
+Software Engineer,IT,"python, java, apis, system design",mid
+Backend Developer,IT,"python, django, mysql, rest api",mid
+Frontend Developer,IT,"react, javascript, html, css",junior
+Full Stack Developer,IT,"react, nodejs, mongodb, express",mid
+Data Scientist,IT,"python, sql, machine learning, pandas",mid
+Machine Learning Engineer,IT,"python, tensorflow, pytorch, mlops",senior
+AI Engineer,IT,"python, llm, nlp, deep learning",senior
+DevOps Engineer,IT,"aws, docker, kubernetes, linux",senior
+Cloud Engineer,IT,"aws, azure, cloud computing, terraform",mid
+Cybersecurity Analyst,IT,"network security, linux, siem, penetration testing",mid
+Network Engineer,IT,"cisco, networking, routing, switching",mid
+Database Administrator,IT,"mysql, postgresql, sql server, backup",mid
+Mobile App Developer,IT,"flutter, dart, firebase, mobile development",mid
+Software Tester,IT,"selenium, manual testing, automation testing",junior
+UI UX Designer,IT,"figma, adobe xd, ui design, ux research",mid
+Blockchain Developer,IT,"solidity, ethereum, smart contracts",senior
+Game Developer,IT,"unity, c#, game physics",mid
+Embedded Systems Engineer,IT,"c, microcontrollers, embedded systems",mid
+Technical Support Engineer,IT,"windows, networking, troubleshooting",junior
+Systems Administrator,IT,"linux, windows server, virtualization",mid
+
+Financial Analyst,Finance,"excel, accounting, finance, sql",junior
+Investment Banker,Finance,"finance, valuation, excel, analytics",senior
+Accountant,Finance,"accounting, excel, taxation",junior
+Chartered Accountant,Finance,"taxation, auditing, finance, accounting",senior
+Risk Analyst,Finance,"risk management, excel, finance",mid
+Auditor,Finance,"auditing, accounting, compliance",mid
+Tax Consultant,Finance,"taxation, finance, accounting",mid
+Financial Advisor,Finance,"finance, communication, investment planning",mid
+Budget Analyst,Finance,"budgeting, finance, excel",junior
+Treasury Analyst,Finance,"cash flow, treasury, finance",mid
+
+Doctor,Healthcare,"medicine, biology, diagnosis",senior
+Nurse,Healthcare,"patient care, nursing, communication",mid
+Pharmacist,Healthcare,"pharmacy, chemistry",mid
+Clinical Researcher,Healthcare,"biology, research, statistics",mid
+Medical Lab Technician,Healthcare,"lab testing, biology, pathology",junior
+Radiologist,Healthcare,"radiology, diagnosis, imaging systems",senior
+Dentist,Healthcare,"dentistry, surgery, patient care",senior
+Healthcare Data Analyst,Healthcare,"sql, python, healthcare analytics",mid
+Physiotherapist,Healthcare,"physiotherapy, anatomy, patient care",mid
+Surgeon,Healthcare,"surgery, medicine, anatomy",senior
+
+Marketing Manager,Business,"seo, social media, communication",senior
+Business Analyst,Business,"excel, sql, reporting, analysis",mid
+Sales Executive,Business,"communication, negotiation",junior
+Project Manager,Business,"leadership, agile, communication",senior
+Operations Manager,Business,"operations, management, planning",senior
+Product Manager,Business,"product strategy, agile, communication",mid
+Digital Marketing Specialist,Business,"seo, google ads, analytics",mid
+Content Writer,Business,"writing, seo, research",junior
+SEO Specialist,Business,"seo, analytics, keyword research",mid
+Customer Support Representative,Business,"communication, crm, support",junior
+
+HR Manager,HR,"communication, hiring, leadership",senior
+Recruiter,HR,"communication, interviewing",junior
+Talent Acquisition Specialist,HR,"recruitment, sourcing, communication",mid
+HR Coordinator,HR,"documentation, communication, hr policies",junior
+Training Manager,HR,"training, leadership, communication",mid
+
+Teacher,Education,"communication, teaching, subject knowledge",mid
+Professor,Education,"research, teaching, phd",senior
+School Administrator,Education,"leadership, administration, planning",mid
+Education Consultant,Education,"teaching, counseling, communication",mid
+Online Tutor,Education,"teaching, zoom, communication",junior
+
+Civil Engineer,Engineering,"autocad, design, structural engineering",mid
+Mechanical Engineer,Engineering,"mechanics, cad, design",mid
+Electrical Engineer,Engineering,"electrical systems, autocad, troubleshooting",mid
+Chemical Engineer,Engineering,"chemistry, thermodynamics, safety",mid
+Petroleum Engineer,Engineering,"drilling, geology, thermodynamics",senior
+Industrial Engineer,Engineering,"manufacturing, process optimization",mid
+Automobile Engineer,Engineering,"automobile systems, mechanics",mid
+Quality Assurance Engineer,Engineering,"quality control, testing",mid
+Site Engineer,Engineering,"construction, planning, autocad",mid
+Production Engineer,Engineering,"production, manufacturing, operations",mid

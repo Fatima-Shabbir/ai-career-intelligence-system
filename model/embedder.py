@@ -1,4 +1,3 @@
-
 from sentence_transformers import SentenceTransformer
 
 class Embedder:
@@ -10,12 +9,9 @@ class Embedder:
         )
 
     def encode(self, texts):
-         return self.model.encode(
-    texts,
-    normalize_embeddings=True,
-    show_progress_bar=False
-)
 
-       
-
-   
+        return self.model.encode(
+            texts,
+            normalize_embeddings=True,
+            show_progress_bar=False
+        )
